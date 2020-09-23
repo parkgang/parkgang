@@ -15,17 +15,9 @@
   I left a video of my training on YouTube. Come and see us.
 </p>
 
-<div align=center>
-  
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/videos?view_as=subscriber)
 
-</div>
-
-<div align=center>
-  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruddms936)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 
