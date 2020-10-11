@@ -21,10 +21,6 @@
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruddms936)](https://velog.io/@ruddms936)
   
-</span>
-
-<span align=center>
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936&hide_langs_below=0.5)](#)
   
 </span>
