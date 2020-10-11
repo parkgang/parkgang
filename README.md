@@ -28,7 +28,7 @@
   <img align="center" src="https://readmestatus.injoon5.ga/api/top-langs/?username=ruddms936&langs_count=10&layout=compact&theme=korea&show_icons=true" />
 </a>
 
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ruddms936&repo=github-readme-stats)]
 
 
 
