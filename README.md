@@ -18,11 +18,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/videos?view_as=subscriber)
 
 <a href="https://github.com/ruddms936">
-  <img align="center" src="https://github-readme-stats.vercel.app/api
-                           ?username=ruddms936
-                           &count_private=true
-                           &show_icons=true
-                           &theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruddms936&count_private=true&show_icons=true&theme=prussian" />
 </a>
 <a href="https://github.com/ruddms936">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936&layout=compact&theme=prussian" />
