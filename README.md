@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruddms936" />
 </a>
 <a href="https://github.com/ruddms936">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936&layout=compact" />
 </a>
 
 <!--
