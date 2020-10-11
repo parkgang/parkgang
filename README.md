@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/videos?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/-Blog-000000)](https://velog.io/@ruddms936/series) <br>
 
-방문해주셔서 감사합니다. 🌱
+Good day! I'm studying js for a dream project.
 
 ## 🐱‍🏍Mobile Robotics
 
