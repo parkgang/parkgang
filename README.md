@@ -21,13 +21,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruddms936" />
 </a>
 <a href="https://github.com/ruddms936">
-  <img align="center" src="https://readmestatus.injoon5.ga/api/top-langs/?username=ruddms936&langs_count=10&layout=compact&theme=korea&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936" />
 </a>
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruddms936)](https://velog.io/@ruddms936)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936&hide_langs_below=0.5)](#)
 
 <!--
 **ruddms936/ruddms936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
