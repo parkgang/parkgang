@@ -28,9 +28,9 @@
   <img align="center" src="https://readmestatus.injoon5.ga/api/top-langs/?username=ruddms936&langs_count=10&layout=compact&theme=korea&show_icons=true" />
 </a>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ruddms936&repo=github-readme-stats)]
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ruddms936&repo=https://gist.github.com/ruddms936/f2bf252e9da1462c61452fe106bf7819.js)
 
-
+<script src="https://gist.github.com/ruddms936/f2bf252e9da1462c61452fe106bf7819.js"></script>
 
 <!--
 **ruddms936/ruddms936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
