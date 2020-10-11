@@ -17,17 +17,17 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/videos?view_as=subscriber)
 
-<div align=center>
+<span align=center>
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruddms936)](https://velog.io/@ruddms936)
   
-</div>
+</span>
 
-<div align=center>
+<span align=center>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936&hide_langs_below=0.5)](#)
   
-</div>
+</span>
 
 
 
