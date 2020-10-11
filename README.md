@@ -2,7 +2,7 @@
 
 안녕하세요.
 
-## 🐱‍🏍Mobile Robotics<br>
+## 🏍Mobile Robotics
 
 <p>
   Hello, I am a student who worked in the Mobile Robotics Functional Class.
