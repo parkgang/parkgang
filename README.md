@@ -14,10 +14,10 @@ I left a video of my training on [Youtube](https://www.youtube.com/channel/UCNIL
 ## 🌱 Grass farming
 
 <a href="https://github.com/ruddms936">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruddms936&count_private=true&show_icons=true&theme=solarized-light&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruddms936&count_private=true&show_icons=true&theme=react&line_height=20" />
 </a>
 <a href="https://github.com/ruddms936">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936&layout=compact&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruddms936&layout=compact&theme=blueberry" />
 </a>
 
 <!--
