@@ -6,7 +6,7 @@
 
 Good day! I'm studying js for a dream project.
 
-## 🐱‍🏍Mobile Robotics
+## 🏆Mobile Robotics
 
 Hello, I am a student who worked in the Mobile Robotics Functional Class.<br>
 I left a video of my training on [Youtube](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/featured?view_as=subscriber). Come and see us.
