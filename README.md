@@ -26,7 +26,7 @@ I left a video of my training on [Youtube](https://www.youtube.com/channel/UCNIL
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parkgang&count_private=true&show_icons=true&theme=react&line_height=20" />
 </a>
 <a href="https://github.com/parkgang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkgang&layout=compact&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkgang&layout=compact&theme=react&exclude_repo=parkgang.github.io" />
 </a>
 
 <!--
