@@ -4,8 +4,12 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/videos?view_as=subscriber)
 [![Gmail Badge](https://img.shields.io/badge/-Blog-000000)](https://velog.io/@ruddms936/series) <br>
 
-Devops 문화와 클라우드, Kubernetes에 관심이 많습니다. <br />
-현대적인 운영 방법을 고민하며 사용자와 개발팀에게 최고의 가치를 전달할 수 있도록 노력합니다. <br />
+1. Devops 문화와 클라우드, Kubernetes에 관심이 많습니다.
+1. 현대적인 운영 방법을 고민하며 사용자와 개발팀에게 최고의 가치를 전달할 수 있도록 노력합니다.
+1. 궁금증이 발생하면 어떻게든 해결해서 경험치를 얻으려고 노력합니다.
+   > [내가 물어본 stackoverflow 질문 리스트들](https://stackoverflow.com/users/14471375/park-kyung-eun?tab=questions)
+
+## Stack
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -15,11 +19,6 @@ Devops 문화와 클라우드, Kubernetes에 관심이 많습니다. <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-
-## 🏆 Mobile Robotics
-
-Hello, I am a student who worked in the Mobile Robotics Functional Class.<br>
-I left a video of my training on [Youtube](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/featured?view_as=subscriber). Come and see us.
 
 ## 🌱 Grass farming
 
