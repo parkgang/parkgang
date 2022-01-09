@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkgang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCNILwGnpN6s7WAWZ8rV_pGw/videos?view_as=subscriber)
-[![Gmail Badge](https://img.shields.io/badge/-Blog-000000)](https://velog.io/@ruddms936/series) <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewook-oh-2b96079b/)](https://www.linkedin.com/in/kyungeun-park-54722722a)
 
 1. Devops 문화와 클라우드, Kubernetes에 관심이 많습니다.
 1. 현대적인 운영 방법을 고민하며 사용자와 개발팀에게 최고의 가치를 전달할 수 있도록 노력합니다.
