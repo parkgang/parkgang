@@ -22,7 +22,7 @@
 
 ## 🌱 Grass farming
 
-| | |
+| Github Insight | Most Languages |
 | --- | --- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=parkgang&count_private=true&show_icons=true&theme=react&line_height=20" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkgang&layout=compact&theme=react&exclude_repo=parkgang.github.io" /> |
 
