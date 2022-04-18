@@ -26,4 +26,4 @@ jobs:
           
           # plugin_languages
           plugin_languages: yes
-          plugin_languages_skipped: js-ts-container
+          plugin_languages_skipped: parkgang/js-ts-container # 너무 쓸데없는 정적 파일이 많음
