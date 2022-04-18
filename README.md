@@ -27,7 +27,7 @@
    
 &nbsp;JS/TS 생태계에 관심이 많습니다.
    
-&nbsp;DevOps 문화와 클라우드, Kubernetes에 관심이 많습니다.
+&nbsp;React, DevOps 문화, 클라우드, Kubernetes에 관심이 많습니다.
    
 &nbsp;현대적인 운영 방법을 고민하며 사용자와 개발팀에게 최고의 가치를 전달할 수 있도록 노력합니다.
    
