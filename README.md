@@ -17,6 +17,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
+[`한국어`](./README.md) | [English](./README.en.md)
+
 `내일은 뭐 만들까? 🤹‍♀️`
 
 &nbsp;아키텍처 설계하는 것을 좋아합니다. 💖
@@ -30,5 +32,7 @@
 &nbsp;현대적인 운영 방법을 고민하며 사용자와 개발팀에게 최고의 가치를 전달할 수 있도록 노력합니다.
    
 ![Metrics](/github-metrics.svg)
-   
+
 </div>
+
+> Copyright. Kyungeun all rights reserved.
