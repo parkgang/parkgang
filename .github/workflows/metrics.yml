@@ -26,3 +26,4 @@ jobs:
           
           # plugin_languages
           plugin_languages: yes
+          plugin_languages_skipped: js-ts-container
