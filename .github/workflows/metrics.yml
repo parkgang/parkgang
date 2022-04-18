@@ -15,7 +15,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
+          config_timezone: Asia/Seoul
+          
+          # Base content(사용자 정보) 표시하지 않음
           base: ""
           
+          # isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # plugin_languages
+          plugin_languages: yes
