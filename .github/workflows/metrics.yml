@@ -27,3 +27,7 @@ jobs:
           # plugin_languages
           plugin_languages: yes
           plugin_languages_skipped: parkgang/parkgang.github.io, parkgang/JSP-Web-Wordbook
+          
+          # plugin_stackoverflow
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 14471375
