@@ -31,3 +31,4 @@ jobs:
           # plugin_stackoverflow
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 14471375
+          plugin_stackoverflow_sections: ""
