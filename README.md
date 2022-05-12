@@ -14,7 +14,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 [`English`](./README.md) | [한국어](./README.ko.md)
@@ -24,13 +23,13 @@
 &nbsp;I like to design architectures. 💖
 
 &nbsp;Static types prefer to hold and code strongly rather than ambiguous.
-   
+
 &nbsp;I am very interested in JS/TS ecosystem.
-   
+
 &nbsp;I'm interested in React, DevOps culture, cloud, and Kubernetes.
-   
+
 &nbsp;Consider modern operational practices and strive to deliver the best value to users and development teams.
-   
+
 ![Metrics](/github-metrics.svg)
 
 </div>
